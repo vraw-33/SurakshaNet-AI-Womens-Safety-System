@@ -60,13 +60,16 @@ The system continuously detects people, assigns unique IDs, tracks their movemen
 # 📂 Project Structure
 
 ```
+
 SurakshaNet-AI/
 │
 ├── SurakshaNet_Detector.py
-├── botsort.yaml
-├── requirements.txt
 ├── README.md
-└── surakshanet_incidents/
+├── requirements.txt
+└── assets/
+    ├── Incident Alert Capture 1.jpg
+    ├── Incident Alert Capture 2.jpg
+    └── Incident Alert Capture 3.jpg
 ```
 
 ---
